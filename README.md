@@ -1,6 +1,6 @@
 # Willkommen zum Python-Praktikum!
 
-Hier auf diesem GitHub finden Sie alle notwendigen Beispiel-Materialien die Sie brauchen.
+Hier auf diesem GitHub finden Sie alle notwendigen Beispiel-Materialien die Sie für den Start benötigen.
 
 ## Einführung
 Für die Installation von Python und Jupyter haben wir ein Jupyter Notebook geschrieben und exportiert.
